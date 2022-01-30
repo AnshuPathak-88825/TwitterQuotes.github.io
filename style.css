@@ -77,7 +77,7 @@
 #button {
     width: 100%;
     position: relative;
-
+    top: 17px;
     background-color: #006dcc;
     border: 0px;
     height: 17%;
@@ -92,13 +92,15 @@
 .quotes {
     font-family: 'Dancing Script';
     padding-left: 33px;
-    font-size: 1.2rem;
+    font-size: 1.8rem;
     height: 43%;
 }
 
 .author {
     height: 23%;
     padding-left: 70%;
+    font-size: 1.5rem;
+
     font-family: 'Supermercado One', cursive;
 
 }
@@ -107,7 +109,7 @@
 
     .inner-box {
         width: 95vw;
-        height: 95vh;
+        height: 90vh;
         background-color: #4b9cfe;
         display: flex;
         flex-wrap: wrap;
@@ -120,7 +122,7 @@
 
     .box {
         width: 95%;
-        height: 95%;
+        height: 80%;
         background-color: #ffffff;
         border-radius: 4px;
         box-shadow: rgba(2, 2, 3, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
@@ -133,7 +135,7 @@
     #button {
         width: 100%;
         position: relative;
-        top: 31px;
+        top: 50px;
         background-color: #006dcc;
         border: 0px;
         height: 14%;
@@ -145,8 +147,7 @@
 
     .author {
         height: 23%;
-        padding-left: 60%;
-
+        padding-left: 50%;
     }
 
 }

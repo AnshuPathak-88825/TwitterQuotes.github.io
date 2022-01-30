@@ -15,7 +15,7 @@ const newQuotes = () => {
 
     }
     else {
-        author[0].innerHTML = quotesauthor;
+        author[0].innerHTML = quotesauthor +".";
 
     }
 
